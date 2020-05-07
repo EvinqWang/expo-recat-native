@@ -18,3 +18,8 @@
 - 安装 node 包之后使用 npm install 再次重新构建整个工程
 
 ### 创建组件
+
+
+### 参考视频教程
+- https://www.bilibili.com/video/BV1j7411o7ys
+- 来源于 youtube codedesign 机构 

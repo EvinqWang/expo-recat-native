@@ -18,7 +18,7 @@ import Menu from "../components/menu";
 export default function HomeScreen() {
   return (
     <View style={styles.container}>
-      <Menu></Menu>
+      <Me nu></Menu>
       <ScrollView
         style={styles.container}
         contentContainerStyle={styles.contentContainer}
