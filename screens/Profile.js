@@ -13,10 +13,12 @@ import { ScrollView } from "react-native-gesture-handler";
 import { MonoText } from "../components/StyledText";
 import style from "styled-components";
 import Card from "../components/Card";
+import Menu from "../components/menu";
 
 export default function HomeScreen() {
   return (
     <View style={styles.container}>
+      <Menu></Menu>
       <ScrollView
         style={styles.container}
         contentContainerStyle={styles.contentContainer}
